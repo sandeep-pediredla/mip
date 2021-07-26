@@ -19,6 +19,7 @@ This project framework provides the following features:
 - Windows 10 or Ubuntu 18.04
 - [MIP SDK Java Wrapper - 1.9.xx Preview](https://aka.ms/mipsdkbins)
 - MIP SDK (not installed on Windows home version), no need to installed on laptop but requires installation on VM.
+- Added .DLL at root or else these .dll files should be avialable in classpath. 
 
 ### Usage:
 
